@@ -1,5 +1,6 @@
 **Description:**
 Created a system for managing gym memberships, staff, and equipment data.Storage and retrieval of data is fast through these .net tools and SQL databases. This Gym Management System shall enable the user to add members, staff, equipment data, search and delete member of gym. It is a very simple interface developed using vb.net. The Gym Management System shall also monitor the timings. This tool uses .net framework with SQL as the database.
+
 **Screenshots:**
 ![image](https://github.com/user-attachments/assets/149a3397-a33f-4b95-842b-28984821fefd)
 ![image](https://github.com/user-attachments/assets/e8724c69-68fd-439c-af69-45a301be55ae)
